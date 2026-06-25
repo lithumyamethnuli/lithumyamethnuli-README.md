@@ -21,8 +21,13 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lithumyamethnuli&show_icons=true&theme=radical" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lithumyamethnuli&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lithumyamethnuli&theme=radical" />
+</p>
 
 ---
 
@@ -34,4 +39,8 @@
 
 ---
 
+## 🔗 My GitHub Profile
+👉 https://github.com/lithumyamethnuli
+
+---
 ⭐ Thanks for visiting my profile!
